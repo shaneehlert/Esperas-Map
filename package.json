@@ -1,0 +1,25 @@
+{
+  "name": "Esperas-Map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaneehlert/Esperas-Map.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaneehlert/Esperas-Map/issues"
+  },
+  "homepage": "https://github.com/shaneehlert/Esperas-Map#readme",
+  "dependencies": {
+    "babel": "^6.5.2",
+    "node": "0.0.0",
+    "nodemon": "^1.11.0"
+  }
+}
